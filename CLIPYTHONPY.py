@@ -1,4 +1,4 @@
-# CLI Interface for Study Planner with Multi-Format Save/Load Support and GUI Readiness
+# CLI Interface for Study Planner with Multi-Format Save/Load Support and GUI Readiness thsi is main core apart ai implimantion
 
 import importlib.util
 import sys
